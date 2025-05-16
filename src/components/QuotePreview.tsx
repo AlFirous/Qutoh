@@ -9,7 +9,7 @@ interface QuotePreviewProps {
 const QuotePreview = ({ quoteText, citation }: QuotePreviewProps) => {
   return (
     <div className="border rounded-md p-6 bg-card">
-      <figure className="random-quote">
+      <figure className="quote">
         <blockquote className={cn(
           "text-lg font-medium italic border-l-4 border-gray-300 pl-4 py-1",
           !quoteText && "text-gray-400"

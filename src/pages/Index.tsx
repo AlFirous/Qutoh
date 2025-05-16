@@ -15,7 +15,7 @@ const Index = () => {
   const [copied, setCopied] = useState(false);
 
   // Generate the HTML code for the quote
-  const generatedHtml = `<figure class="random-quote">
+  const generatedHtml = `<figure class="quote">
   <blockquote>${quoteText}</blockquote>
   <figcaption>${citation}</figcaption>
 </figure>`;
