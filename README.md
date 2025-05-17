@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/be77f496-4e2a-4c29-aaf9-27edb998505d](https://preview--quote-figure-forge.lovable.app/)
+**URL**: [https://preview--quote-figure-forge.lovable.app/](https://preview--quote-figure-forge.lovable.app/)
 
 ## What technologies are used for this project?
 
