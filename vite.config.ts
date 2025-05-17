@@ -14,4 +14,9 @@ export default defineConfig({
   // Base path for GitHub Pages - this should match your repository name
   // Change 'quote-figure-forge' to your actual repository name
   base: '/quote-figure-forge/',
+  // Server configuration
+  server: {
+    host: "::",
+    port: 8080,
+  },
 })
