@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: [https://preview--quote-figure-forge.lovable.app/](https://preview--quote-figure-forge.lovable.app/)
+**URL**: [https://quotes-to-html.lovable.app/](https://quotes-to-html.lovable.app/)
 
 ## What technologies are used for this project?
 
